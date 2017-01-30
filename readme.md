@@ -30,9 +30,9 @@ PUSHER_APP_SECRET=your-pusher-app-secret
  - Email: second@example.com
  - Password: secret
  
- チャット画面 (`your-domain`/chat)
+チャット画面 (`your-domain`/chat)
  
- ## Testing
- ```
- $ php artisan dusk
- ```
+## Testing
+```
+$ php artisan dusk
+```
